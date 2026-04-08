@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I turn chaotic, high-volume data into things that actually matter: shipped models, executive dashboards, and product decisions people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
+I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and product decisions people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
 
 By day I'm building ML pipelines, running A/B experiments, and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
 
@@ -32,7 +32,7 @@ By day I'm building ML pipelines, running A/B experiments, and poking at predict
     </td>
     <td width="40"></td>
     <td valign="middle" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/IITB-logo.png/120px-IITB-logo.png" width="60" alt="IIT Bombay"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/IIT_Bombay_Logo.svg/120px-IIT_Bombay_Logo.svg.png" width="60" alt="IIT Bombay"/>
     </td>
     <td valign="middle">
       <strong>Indian Institute of Technology Bombay</strong><br/>
@@ -48,10 +48,10 @@ By day I'm building ML pipelines, running A/B experiments, and poking at predict
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL (PostgreSQL, MySQL), R, PySpark |
-| **Cloud & Warehouses** | GCP (BigQuery, GCE), AWS (S3, Redshift), Snowflake |
+| **Cloud & Warehouses** | GCP (BigQuery, GCE), AWS, Snowflake |
 | **ML & Modeling** | scikit-learn, XGBoost, LightGBM, Random Forest, SVM, Regression, Classification, Clustering (K-Means) |
 | **Data Engineering** | ETL/ELT Pipelines, Apache Airflow, Apache Spark |
 | **Analytics & BI** | Tableau, Power BI, A/B Testing, Causal Inference, Statistical Modeling |
-| **Product & Strategy** | Product Metrics, User Behavior Analytics, Data Storytelling, Stakeholder Management, Roadmap Planning |
-| **GenAI** | LangGraph, RAG / FAISS, LLM APIs, Semantic Search, Pydantic |
+| **Product & Strategy** | Product Metrics, User Behavior Analytics, Data Storytelling, Roadmap Planning |
+| **GenAI** | LangGraph, RAG / FAISS, LLM APIs, Semantic Search |
 | **Tools** | Git & GitHub, Excel & Power Query, Jupyter Notebooks, Streamlit, SPSS |
