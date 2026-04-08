@@ -32,7 +32,7 @@ By day I'm building ML pipelines, running A/B experiments, and poking at predict
     </td>
     <td width="40"></td>
     <td valign="middle" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/IIT_Bombay_Logo.svg/120px-IIT_Bombay_Logo.svg.png" width="60" alt="IIT Bombay"/>
+      <img src="iitb%20logo.png" width="60" alt="IIT Bombay"/>
     </td>
     <td valign="middle">
       <strong>Indian Institute of Technology Bombay</strong><br/>
