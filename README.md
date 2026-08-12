@@ -47,11 +47,9 @@ By day I'm building ML pipelines, running A/B experiments, and poking at predict
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, SQL (PostgreSQL, MySQL), R, PySpark |
-| **Cloud & Warehouses** | GCP (BigQuery, GCE), AWS, Snowflake |
-| **ML & Modeling** | scikit-learn, XGBoost, LightGBM, Random Forest, SVM, Regression, Classification, Clustering (K-Means) |
-| **Data Engineering** | ETL/ELT Pipelines, Apache Airflow, Apache Spark |
-| **Analytics & BI** | Tableau, Power BI, A/B Testing, Causal Inference, Statistical Modeling |
-| **Product & Strategy** | Product Metrics, User Behavior Analytics, Data Storytelling, Roadmap Planning |
-| **GenAI** | LangGraph, RAG / FAISS, LLM APIs, Semantic Search |
-| **Tools** | Git & GitHub, Excel & Power Query, Jupyter Notebooks, Streamlit, SPSS |
+| **Analytics & BI** | A/B Testing, Tableau, Power BI, Causal Inference, Statistical Modeling, Anomaly Detection, Forecasting, Product Metrics, User Behavior Analytics, Data Storytelling |
+| **AI Systems** | LangGraph, LangChain, Multi-Agent Systems, RAG / Vector Search, GenAI / LLM APIs |
+| **Data Engineering & Cloud** | PySpark, dbt, GCP (BigQuery, GCE), AWS (S3, Redshift), Feature Engineering, ETL / ELT Pipelines, Apache Airflow |
+| **ML & Modeling** | scikit-learn, XGBoost / LightGBM, Deep Learning (DNN), TensorFlow, Regression & Classification, Clustering (K-Means) |
+| **Languages & Databases** | SQL (PostgreSQL, pgvector, MySQL), Python, R, Snowflake |
+| **Tools & Workflow** | Git & GitHub, Excel & Power Query, Jupyter Notebooks, Streamlit, Stakeholder Management, Roadmap Planning, SPSS |
