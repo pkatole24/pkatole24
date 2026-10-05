@@ -13,9 +13,9 @@
 
 ## 👋 About Me
 
-I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and product decisions people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
+I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and AI products people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
 
-By day I'm building ML pipelines, running A/B experiments, and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
+By day I'm building ML pipelines and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
 
 ---
 
