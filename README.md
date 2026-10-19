@@ -1,55 +1,64 @@
-<!-- Header -->
-<div align="center">
+<p align="center">
+  <img src="assets/terminal-header.svg" width="100%" alt="Paarth Katole — AI Systems / Analytics / Forecasting. Turning messy data into useful decisions and working systems." />
+</p>
 
-# Paarth Katole
+<p align="center">
+  <a href="https://pkatole24.github.io">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/paarthkatole/">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:pkatole24@outlook.com">Email ↗</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-7c6fff?style=for-the-badge&logo=githubpages&logoColor=white)](https://pkatole24.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarthkatole/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pkatole24@outlook.com)
+## `~/projects`
 
-</div>
+```sh
+paarth@github:~$ ls projects/
+```
 
----
+### [`agents/`](https://github.com/pkatole24/procurement-agent)
 
-## 👋 About Me
+**Procurement audit planning agent** — Turning public procurement evidence into a planning pack, with source traceability, Python checks, and human approval gates.
 
-I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and AI products people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
+`Claude Code` · `Python` · `Multi-agent workflows`
 
-By day I'm building ML pipelines and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
+### [`decision-tools/`](https://github.com/pkatole24/NFL-FourthDown-DecisionAnalytics)
 
----
+**NFL × weather analytics** — Exploring fourth-down behavior through a pipeline that connects play-by-play and weather data to a Tableau dashboard.
 
-## 🎓 Education
+`PySpark` · `Airflow` · `Snowflake` · `Tableau`
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td valign="middle" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/120px-The_University_of_California_UCLA.svg.png" width="60" alt="UCLA"/>
-    </td>
-    <td valign="middle">
-      <strong>University of California, Los Angeles</strong><br/>
-      M.S. Business Analytics &nbsp;·&nbsp; 2026
-    </td>
-    <td width="40"></td>
-    <td valign="middle" width="72">
-      <img src="iitb%20logo.png" width="60" alt="IIT Bombay"/>
-    </td>
-    <td valign="middle">
-      <strong>Indian Institute of Technology Bombay</strong><br/>
-      Bachelor of Technology &nbsp;·&nbsp; 2024
-    </td>
-  </tr>
-</table>
+### [`forecasting/`](https://github.com/pkatole24/retail-demand-forecasting-pipeline)
+
+**M5 demand forecasting workbench** — Comparing retail-demand models with simple baselines, chronological evaluation, and a closer look at sparse demand.
+
+`Python` · `LightGBM` · `Streamlit`
+
+[Browse all repositories ↗](https://github.com/pkatole24?tab=repositories)
 
 ---
 
-## 🛠️ Tech Stack
+## `~/current-focus.txt`
 
-| Category | Tools |
-|---|---|
-| **Analytics & BI** | A/B Testing, Tableau, Power BI, Causal Inference, Statistical Modeling, Anomaly Detection, Forecasting, Product Metrics, User Behavior Analytics, Data Storytelling |
-| **AI Systems** | LangGraph, LangChain, Multi-Agent Systems, RAG / Vector Search, GenAI / LLM APIs |
-| **Data Engineering & Cloud** | PySpark, dbt, GCP (BigQuery, GCE), AWS (S3, Redshift), Feature Engineering, ETL / ELT Pipelines, Apache Airflow |
-| **ML & Modeling** | scikit-learn, XGBoost / LightGBM, Deep Learning (DNN), TensorFlow, Regression & Classification, Clustering (K-Means) |
-| **Languages & Databases** | SQL (PostgreSQL, pgvector, MySQL), Python, R, Snowflake |
-| **Tools & Workflow** | Git & GitHub, Excel & Power Query, Jupyter Notebooks, Streamlit, Stakeholder Management, Roadmap Planning, SPSS |
+```text
+Building systems whose results I can explain and verify.
+```
+
+I work across AI systems, analytics, and forecasting. I like the part where a model becomes something someone can actually use—and the questions that come up when the data refuses to cooperate.
+
+## `~/toolbox.txt`
+
+| | Tools I reach for |
+| :--- | :--- |
+| **AI systems** | LangGraph · LangChain · RAG / vector search · LLM APIs |
+| **Analytics** | Python · SQL · R · Tableau · Power BI |
+| **Forecasting & modeling** | scikit-learn · XGBoost / LightGBM |
+| **Pipelines & platforms** | PySpark · dbt · Airflow · BigQuery · Snowflake |
+| **Exploration & delivery** | Jupyter · Streamlit · Git |
+
+## `~/education.txt`
+
+**UCLA** · M.S. Business Analytics · 2026<br/>
+**IIT Bombay** · Bachelor of Technology · 2024
+
+```sh
+paarth@github:~$ # always another question worth exploring
+```
