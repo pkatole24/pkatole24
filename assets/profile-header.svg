@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="790" viewBox="0 0 960 790" role="img" aria-labelledby="title description">
   <title id="title">Paarth Katole — AI Systems / Analytics / Forecasting</title>
   <desc id="description">UCLA MSBA · IIT Bombay. I work across AI systems, analytics, and forecasting. I like the part where a model becomes something you actually use and the questions that come up when the data refuses to cooperate. Toolbox: AI systems — LangGraph, LangChain, RAG / vector search, LLM APIs. Analytics — Python, SQL, R, Tableau, Power BI. Forecasting and modeling — scikit-learn, XGBoost / LightGBM. Pipelines and platforms — PySpark, dbt, Airflow, BigQuery, Snowflake. Exploration and delivery — Jupyter, Streamlit, Git.</desc>
-  <rect x="1" y="1" width="958" height="788" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <rect x="1" y="1" width="958" height="788" fill="#0d1117" />
   <g font-family="'DejaVu Sans Mono', Consolas, monospace">
-    <text x="38" y="60" fill="#f0f6fc" font-size="54" font-weight="700">Paarth Katole</text>
+    <text x="38" y="60" fill="#7ee7a8" font-size="54" font-weight="700">Paarth Katole</text>
     <text x="40" y="102" fill="#c9d1d9" font-size="24" font-weight="700">AI Systems / Analytics / Forecasting</text>
     <text x="40" y="145" fill="#9da7b3" font-size="18">Turning messy data into useful decisions</text>
     <text x="40" y="171" fill="#9da7b3" font-size="18">and working systems.</text>
