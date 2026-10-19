@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/profile-header-tagline.svg" width="100%" alt="Paarth Katole — AI Systems / Analytics / Forecasting. UCLA · IIT Bombay. Toolbox: AI systems — LangGraph, LangChain, RAG / vector search, LLM APIs, MCP. Analytics — Python, SQL, R, Tableau, Power BI. Forecasting and modeling — scikit-learn, XGBoost / LightGBM, ARIMA, DNN. Pipelines and platforms — PySpark, dbt, Airflow, BigQuery, Snowflake, Vercel. Exploration and delivery — Streamlit, Git." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg" />
+    <img src="assets/profile-light.svg" width="100%" alt="Paarth Katole — AI Systems / Analytics / Forecasting. UCLA · IIT Bombay. Toolbox: AI systems — LangGraph, LangChain, RAG / vector search, LLM APIs, MCP. Analytics — Python, SQL, R, Tableau, Power BI. Forecasting and modeling — scikit-learn, XGBoost / LightGBM, ARIMA, DNN. Pipelines and platforms — PySpark, dbt, Airflow, BigQuery, Snowflake, Vercel. Exploration and delivery — Streamlit, Git." />
+  </picture>
 </p>
 
 <p align="center">

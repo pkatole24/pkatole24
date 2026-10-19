@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680" role="img" aria-labelledby="title description">
   <title id="title">Paarth Katole — AI Systems / Analytics / Forecasting</title>
   <desc id="description">UCLA · IIT Bombay. Toolbox: AI systems — LangGraph, LangChain, RAG / vector search, LLM APIs, MCP. Analytics — Python, SQL, R, Tableau, Power BI. Forecasting and modeling — scikit-learn, XGBoost / LightGBM, ARIMA, DNN. Pipelines and platforms — PySpark, dbt, Airflow, BigQuery, Snowflake, Vercel. Exploration and delivery — Streamlit, Git.</desc>
-  <rect x="1" y="1" width="958" height="678" fill="#0d1117" />
   <g font-family="'DejaVu Sans Mono', Consolas, monospace">
     <text x="38" y="60" fill="#7ee7a8" font-size="54" font-weight="700">Paarth Katole</text>
     <text x="40" y="102" fill="#c9d1d9" font-size="24" font-weight="700">AI Systems / Analytics / Forecasting</text>

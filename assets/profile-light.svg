@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680" role="img" aria-labelledby="title description">
+  <title id="title">Paarth Katole — AI Systems / Analytics / Forecasting</title>
+  <desc id="description">UCLA · IIT Bombay. Toolbox: AI systems — LangGraph, LangChain, RAG / vector search, LLM APIs, MCP. Analytics — Python, SQL, R, Tableau, Power BI. Forecasting and modeling — scikit-learn, XGBoost / LightGBM, ARIMA, DNN. Pipelines and platforms — PySpark, dbt, Airflow, BigQuery, Snowflake, Vercel. Exploration and delivery — Streamlit, Git.</desc>
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace">
+    <text x="38" y="60" fill="#116329" font-size="54" font-weight="700">Paarth Katole</text>
+    <text x="40" y="102" fill="#1f2328" font-size="24" font-weight="700">AI Systems / Analytics / Forecasting</text>
+    <text x="40" y="145" fill="#59636e" font-size="18">Turning messy data into useful decisions and working systems.</text>
+    <text x="40" y="212" fill="#6639ba" font-size="19">UCLA · IIT Bombay</text>
+    <path d="M40 248H920" stroke="#d1d9e0" />
+    <text x="40" y="282" fill="#116329" font-size="22" font-weight="700">Toolbox</text>
+    <g font-size="18">
+      <text x="40" y="328" fill="#6639ba">AI systems</text>
+      <text x="40" y="355" fill="#1f2328">LangGraph · LangChain · RAG / vector search · LLM APIs · MCP</text>
+      <text x="40" y="396" fill="#6639ba">Analytics</text>
+      <text x="40" y="423" fill="#1f2328">Python · SQL · R · Tableau · Power BI</text>
+      <text x="40" y="464" fill="#6639ba">Forecasting &amp; modeling</text>
+      <text x="40" y="491" fill="#1f2328">scikit-learn · XGBoost / LightGBM · ARIMA · DNN</text>
+      <text x="40" y="532" fill="#6639ba">Pipelines &amp; platforms</text>
+      <text x="40" y="559" fill="#1f2328">PySpark · dbt · Airflow · BigQuery · Snowflake · Vercel</text>
+      <text x="40" y="600" fill="#6639ba">Exploration &amp; delivery</text>
+      <text x="40" y="627" fill="#1f2328">Streamlit · Git</text>
+    </g>
+  </g>
+</svg>
